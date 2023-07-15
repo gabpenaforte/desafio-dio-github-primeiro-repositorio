@@ -12,6 +12,15 @@ function carregaDicionario() {
     },
 
     bio02: {
+      nome: "Antonieta de Barros",
+      imagem: "https://i.postimg.cc/13mzBK2m/antonieta-retrato.jpg",
+      descricao:
+        "O ingresso da educadora Antonieta de Barros na política começa concomitantemente ao sufrágio feminino no Brasil. Conquistado em 1932, o direito ao voto estendido às mulheres foi consolidado na Constituição em 1934, ano em que Barros se tornou suplente do Partido Liberal Catarinense (PLC). Como o engenheiro agrônomo Leônidas Coelho de Souza não pôde assumir o cargo, a educadora cumpriu o mandato de 1935 a 1937, tornando-se a primeira deputada de Santa Catarina e a primeira deputada negra do Brasil. Em 19 de julho de 1937, conquistou outro feito: tornou-se a primeira mulher a presidir uma sessão da Assembleia Legislativa no Brasil. Também fundou o jornal A Semana, em que publicava seus artigos sobre educação e desigualdade racial e de gênero.",
+      citacao:
+        "A educadora Antonieta de Barros foi uma importante política na luta contra o racismo e o machismo na região Sul.",
+    },
+
+    bio03: {
       nome: "Carolina de Jesus",
       imagem: "https://i.postimg.cc/Fdc5VKMJ/carolina-de-jesus.png",
       descricao:
@@ -20,7 +29,7 @@ function carregaDicionario() {
         "Ah, comigo o mundo vai modificar-se. Não gosto do mundo como ele é.",
     },
 
-    bio03: {
+    bio04: {
       nome: "Conceição Evaristo",
       imagem: "https://i.postimg.cc/Z9XzNNMS/conceicao-evaristo.png",
       descricao:
@@ -29,7 +38,16 @@ function carregaDicionario() {
         "O importante não é ser o primeiro ou primeira, o importante é abrir caminhos.",
     },
 
-    bio04: {
+    bio05: {
+      nome: "Dandara dos Palmares",
+      imagem: "https://i.postimg.cc/3whdsTkT/pasted-image-0.png",
+      descricao:
+        "Líder feminina do Quilombo dos Palmares, Dandara era companheira de Zumbi dos Palmares, com quem teria tido três filhos. Ao longo de décadas, a matriarca participou de decisões políticas e militares em prol da luta pela abolição da escravatura e assumiu o compromisso de lutar pela liberdade das cerca de 30 mil pessoas que chegaram a compor o quilombo. Resistiu ao poder do colonizadores europeus até sua morte: acredita-se que ela teria se jogado de uma pedreira para que as forças militares que tomaram o quilombo no fim do século 17 não a capturassem e a escravizassem novamente.",
+      citacao:
+        "Dandara dos Palmares, mulher forte e guerreira que lutou até o fim, por um ideal, por um povo e por si mesma."
+    },
+
+    bio06: {
       nome: "Lélia Gonzalez",
       imagem: "https://i.postimg.cc/2q1f3GTG/lelia-gonzalez.png",
       descricao: "Lélia Gonzalez foi uma intelectual, política, professora e antropóloga brasileira. Ajudou a fundar instituições como o Movimento Negro Unificado (MNU), o Instituto de Pesquisas das Culturas Negras (IPCN), o Coletivo de Mulheres Negras N'Zinga e o Olodum. Sua militância em defesa da mulher negra levou-a ao Conselho Nacional dos Direitos da Mulher (CNDM), no qual atuou de 1985 a 1989. Foi candidata a deputada federal pelo PT, elegendo-se primeira suplente. Nas eleições seguintes, em 1986, candidatou-se a deputada estadual pelo PDT, novamente elegendo-se suplente.",
@@ -37,7 +55,7 @@ function carregaDicionario() {
         "A gente não nasce negro, a gente se torna negro. É uma conquista dura, cruel e que se desenvolve pela vida da gente afora.",
     },
 
-    bio05: {
+    bio07: {
       nome: "Marielle Franco",
       imagem: "https://i.postimg.cc/8fS8KSGX/marielle-franco.png",
       descricao:
@@ -46,7 +64,7 @@ function carregaDicionario() {
         "Quantos mais vão precisar morrer para que essa guerra aos pobres acabe?",
     },
 
-    bio06: {
+    bio08: {
       nome: "Rosa Parks",
       imagem: "https://i.postimg.cc/K1q2Zw74/rosa-parks.png",
       descricao:
